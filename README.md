@@ -1,4 +1,3 @@
-Sentiment Analysis and Market Movement Prediction Using NLP and ARIMAX Modeling
 Overview
 This project investigates whether sentiment extracted from financial news headlines can predict market movements. By integrating Natural Language Processing (NLP) techniques with time series forecasting methods, the project aims to quantify market narratives and forecast the daily returns of SPY (the S&P 500 ETF). The pipeline includes data collection and preprocessing, entity extraction and sentiment analysis, semantic embedding and clustering, and ARIMAX modeling with rolling validation.
 
