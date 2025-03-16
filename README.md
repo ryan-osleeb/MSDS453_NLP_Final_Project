@@ -7,8 +7,11 @@ Installation
 Clone the repository and install the required packages:
 
 git clone [repository_url]
+
 cd [repository_folder]
+
 pip install -r requirements.txt
+
 python -m spacy download en_core_web_md
 
 Usage
