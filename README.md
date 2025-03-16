@@ -6,9 +6,7 @@ Installation
 
 Clone the repository and install the required packages:
 
-git clone [repository_url]
-
-cd [repository_folder]
+git clone https://github.com/ryan-osleeb/MSDS453_NLP_Final_Project.git
 
 pip install -r requirements.txt
 
